@@ -11,7 +11,7 @@
         transform: translate(0) rotate(0) scale(1);
     }
     to{
-        transform: rotateX(-50deg) ;
+        transform: rotateX(-25deg) ;
     }
 }
 *{
